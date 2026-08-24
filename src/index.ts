@@ -24,5 +24,3 @@ export function initializeTrubeArt() {
   const { soulLibrary } = require('./core/soul/SoulLibrary');
   soulLibrary.prewarm();
 }
-
-export { default as TrubeLabScreen } from '@repo/trube-art/screens/TrubeLabScreen';
