@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/package",
-  "name": "@repo/trube-art",
+  "name": "@intuitui-labs/trube-art",
   "version": "0.1.1",
   "description": "Living light surfaces for React Native and Skia.",
   "main": "./dist/index.js",
@@ -69,3 +69,4 @@
     "vitest": "^4.1.8"
   }
 }
+
