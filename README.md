@@ -40,4 +40,4 @@ import {
 ---
 
 ## 📄 License
-MIT © Intuitui Labs & Neev Foundation.
+MIT © Intuitui Labs.
