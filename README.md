@@ -9,8 +9,8 @@
 ---
 
 > [!NOTE]
-> **Repository Status: Paused / Archived Research Lab**  
-> This package contains exploratory research into high-performance GPU shaders, Skia canvas surfaces, and Nitro C++ modules for React Native. It is preserved for reference by Intuitui Labs and Gurudevi. Active feature development is paused.
+> **Repository Status: Stalled / Paused (2026-11-27)**  
+> Active development on this repository is paused indefinitely because the primary maintainer is unavailable (bus factor). Exploratory GPU shaders, Skia canvas surfaces, and Nitro C++ modules are preserved for reference.
 
 ---
 
